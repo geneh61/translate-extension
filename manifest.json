@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "__MSG_extension_name__",
+    "version": "0.1.0",
+    "description": "__MSG_extension_description__",
+    "default_locale": "en",
+    "permissions": ["storage"],
+    "host_permissions": ["https://www.youtube.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.youtube.com/*"],
+        "js": ["content/utils.js", "content/api.js", "content/content.js", "content/errorHandler.js"],
+        "css": ["content/content.css"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup/popup.html",
+      "default_icon": {
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+      }
+    },
+    "options_page": "options/options.html",
+    "icons": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }

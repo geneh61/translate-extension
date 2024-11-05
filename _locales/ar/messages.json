@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "الترجمات معطلة"
+    },
+    "display_enabled": {
+        "message": "الترجمات مفعلة"
+    },
+    "display_failed": {
+        "message": "فشل في تحميل الترجمات. حاول تحديث الصفحة."
+    },
+    "display_no_api": {
+        "message": "لم يتم العثور على مفتاح API. يرجى إدخال مفتاح API في إعدادات الامتداد."
+    },
+    "display_starting": {
+        "message": "بدء عملية الترجمة..."
+    },
+    "display_translating": {
+        "message": "جارٍ ترجمة الترجمات"
+    },
+    "extension_description": {
+        "message": "يترجم ترجمات YouTube باستخدام Gemini API"
+    },
+    "extension_name": {
+        "message": "مترجم الترجمة"
+    },
+    "options_apikey_hint": {
+        "message": "يمكنك الحصول على مفتاح API الخاص بـ Gemini في الصفحة التالية."
+    },
+    "options_button_save": {
+        "message": "حفظ"
+    },
+    "options_button_saved": {
+        "message": "تم الحفظ"
+    },
+    "options_language": {
+        "message": "اللغة المستهدفة الافتراضية:"
+    },
+    "options_title": {
+        "message": "خيارات مترجم الترجمة"
+    },
+    "popup_button_hint": {
+        "message": "انقر فوق الزر الجديد للترجمات في أعلى يمين مقاطع فيديو YouTube لترجمة الترجمات."
+    },
+    "popup_button_options": {
+        "message": "خيارات"
+    }
+}

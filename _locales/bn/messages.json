@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "ক্যাপশন নিষ্ক্রিয়"
+    },
+    "display_enabled": {
+        "message": "ক্যাপশন সক্রিয়"
+    },
+    "display_failed": {
+        "message": "ক্যাপশন লোড করতে ব্যর্থ হয়েছে। অনুগ্রহ করে পৃষ্ঠাটি রিফ্রেশ করার চেষ্টা করুন।"
+    },
+    "display_no_api": {
+        "message": "কোনো API কী পাওয়া যায়নি। অনুগ্রহ করে এক্সটেনশন সেটিংসে একটি API কী প্রবেশ করান।"
+    },
+    "display_starting": {
+        "message": "অনুবাদ প্রক্রিয়া শুরু হচ্ছে..."
+    },
+    "display_translating": {
+        "message": "ক্যাপশন অনুবাদ হচ্ছে"
+    },
+    "extension_description": {
+        "message": "Gemini API ব্যবহার করে YouTube ক্যাপশন অনুবাদ করে"
+    },
+    "extension_name": {
+        "message": "ক্যাপশন অনুবাদক"
+    },
+    "options_apikey_hint": {
+        "message": "আপনি নিম্নলিখিত পৃষ্ঠায় একটি Gemini API কী পেতে পারেন।"
+    },
+    "options_button_save": {
+        "message": "সংরক্ষণ করুন"
+    },
+    "options_button_saved": {
+        "message": "সংরক্ষিত"
+    },
+    "options_language": {
+        "message": "ডিফল্ট টার্গেট ভাষা:"
+    },
+    "options_title": {
+        "message": "ক্যাপশন অনুবাদক বিকল্প"
+    },
+    "popup_button_hint": {
+        "message": "ক্যাপশন অনুবাদ করতে YouTube ভিডিওগুলির উপরের ডানদিকে নতুন ক্যাপশন বোতামে ক্লিক করুন।"
+    },
+    "popup_button_options": {
+        "message": "বিকল্প"
+    }
+}

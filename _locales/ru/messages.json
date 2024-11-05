@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Субтитры отключены"
+    },
+    "display_enabled": {
+        "message": "Субтитры включены"
+    },
+    "display_failed": {
+        "message": "Не удалось загрузить субтитры. Попробуйте обновить страницу."
+    },
+    "display_no_api": {
+        "message": "Ключ API не найден. Введите ключ API в настройках расширения."
+    },
+    "display_starting": {
+        "message": "Запуск процесса перевода..."
+    },
+    "display_translating": {
+        "message": "Перевод субтитров"
+    },
+    "extension_description": {
+        "message": "Переводит субтитры YouTube с использованием API Gemini"
+    },
+    "extension_name": {
+        "message": "Переводчик Субтитров"
+    },
+    "options_apikey_hint": {
+        "message": "Вы можете получить ключ API Gemini на следующей странице."
+    },
+    "options_button_save": {
+        "message": "Сохранить"
+    },
+    "options_button_saved": {
+        "message": "Сохранено"
+    },
+    "options_language": {
+        "message": "Язык перевода по умолчанию:"
+    },
+    "options_title": {
+        "message": "Опции Переводчика Субтитров"
+    },
+    "popup_button_hint": {
+        "message": "Нажмите новую кнопку субтитров в правом верхнем углу видео на YouTube, чтобы перевести субтитры."
+    },
+    "popup_button_options": {
+        "message": "Опции"
+    }
+}

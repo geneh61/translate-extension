@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "キャプションが無効になっています"
+    },
+    "display_enabled": {
+        "message": "キャプションが有効になっています"
+    },
+    "display_failed": {
+        "message": "キャプションの読み込みに失敗しました。ページを更新してみてください。"
+    },
+    "display_no_api": {
+        "message": "APIキーが見つかりませんでした。拡張機能の設定でAPIキーを入力してください。"
+    },
+    "display_starting": {
+        "message": "翻訳プロセスを開始しています..."
+    },
+    "display_translating": {
+        "message": "キャプションを翻訳中です"
+    },
+    "extension_description": {
+        "message": "Gemini APIを使用してYouTubeの字幕を翻訳します"
+    },
+    "extension_name": {
+        "message": "キャプショントランスレーター"
+    },
+    "options_apikey_hint": {
+        "message": "以下のページでGemini APIキーを取得できます。"
+    },
+    "options_button_save": {
+        "message": "保存"
+    },
+    "options_button_saved": {
+        "message": "保存しました"
+    },
+    "options_language": {
+        "message": "デフォルトのターゲット言語："
+    },
+    "options_title": {
+        "message": "キャプショントランスレーターのオプション"
+    },
+    "popup_button_hint": {
+        "message": "YouTube動画の右上の新しいキャプションボタンをクリックしてキャプションを翻訳します。"
+    },
+    "popup_button_options": {
+        "message": "オプション"
+    }
+}

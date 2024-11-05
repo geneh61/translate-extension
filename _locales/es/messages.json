@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Subtítulos deshabilitados"
+    },
+    "display_enabled": {
+        "message": "Subtítulos habilitados"
+    },
+    "display_failed": {
+        "message": "Error al cargar los subtítulos. Por favor, intente actualizar la página."
+    },
+    "display_no_api": {
+        "message": "No se encontró ninguna clave de API. Por favor, introduzca una clave de API en la configuración de la extensión."
+    },
+    "display_starting": {
+        "message": "Iniciando proceso de traducción..."
+    },
+    "display_translating": {
+        "message": "Traduciendo subtítulos"
+    },
+    "extension_description": {
+        "message": "Traduce subtítulos de YouTube utilizando la API de Gemini"
+    },
+    "extension_name": {
+        "message": "Traductor de Subtítulos"
+    },
+    "options_apikey_hint": {
+        "message": "Puede obtener una clave de API de Gemini en la siguiente página."
+    },
+    "options_button_save": {
+        "message": "Guardar"
+    },
+    "options_button_saved": {
+        "message": "Guardado"
+    },
+    "options_language": {
+        "message": "Idioma de destino predeterminado:"
+    },
+    "options_title": {
+        "message": "Opciones del Traductor de Subtítulos"
+    },
+    "popup_button_hint": {
+        "message": "Haga clic en el nuevo botón de subtítulos en la parte superior derecha de los videos de YouTube para traducir los subtítulos."
+    },
+    "popup_button_options": {
+        "message": "Opciones"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "कैप्शन अक्षम"
+    },
+    "display_enabled": {
+        "message": "कैप्शन सक्षम"
+    },
+    "display_failed": {
+        "message": "कैप्शन लोड करने में विफल। कृपया पेज को रीफ्रेश करने का प्रयास करें।"
+    },
+    "display_no_api": {
+        "message": "कोई API कुंजी नहीं मिली। कृपया एक्सटेंशन सेटिंग्स में एक API कुंजी दर्ज करें।"
+    },
+    "display_starting": {
+        "message": "अनुवाद प्रक्रिया शुरू हो रही है..."
+    },
+    "display_translating": {
+        "message": "कैप्शन का अनुवाद हो रहा है"
+    },
+    "extension_description": {
+        "message": "Gemini API का उपयोग करके YouTube कैप्शन का अनुवाद करता है"
+    },
+    "extension_name": {
+        "message": "कैप्शन अनुवादक"
+    },
+    "options_apikey_hint": {
+        "message": "आप निम्न पृष्ठ पर एक Gemini API कुंजी प्राप्त कर सकते हैं।"
+    },
+    "options_button_save": {
+        "message": "सहेजें"
+    },
+    "options_button_saved": {
+        "message": "सहेजा गया"
+    },
+    "options_language": {
+        "message": "डिफ़ॉल्ट लक्ष्य भाषा:"
+    },
+    "options_title": {
+        "message": "कैप्शन अनुवादक विकल्प"
+    },
+    "popup_button_hint": {
+        "message": "कैप्शन अनुवाद करने के लिए YouTube वीडियो के ऊपरी दाएँ कोने में नए कैप्शन बटन पर क्लिक करें।"
+    },
+    "popup_button_options": {
+        "message": "विकल्प"
+    }
+}

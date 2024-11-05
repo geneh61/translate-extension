@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Phụ đề đã bị tắt"
+    },
+    "display_enabled": {
+        "message": "Phụ đề đã được bật"
+    },
+    "display_failed": {
+        "message": "Không tải được phụ đề. Vui lòng thử làm mới trang."
+    },
+    "display_no_api": {
+        "message": "Không tìm thấy khóa API. Vui lòng nhập khóa API trong cài đặt tiện ích mở rộng."
+    },
+    "display_starting": {
+        "message": "Bắt đầu quá trình dịch..."
+    },
+    "display_translating": {
+        "message": "Đang dịch phụ đề"
+    },
+    "extension_description": {
+        "message": "Dịch phụ đề YouTube bằng API Gemini"
+    },
+    "extension_name": {
+        "message": "Trình Dịch Phụ Đề"
+    },
+    "options_apikey_hint": {
+        "message": "Bạn có thể nhận khóa API Gemini tại trang sau."
+    },
+    "options_button_save": {
+        "message": "Lưu"
+    },
+    "options_button_saved": {
+        "message": "Đã lưu"
+    },
+    "options_language": {
+        "message": "Ngôn ngữ mặc định:"
+    },
+    "options_title": {
+        "message": "Tùy chọn Trình Dịch Phụ Đề"
+    },
+    "popup_button_hint": {
+        "message": "Nhấp vào nút phụ đề mới ở góc trên bên phải của video YouTube để dịch phụ đề."
+    },
+    "popup_button_options": {
+        "message": "Tùy chọn"
+    }
+}

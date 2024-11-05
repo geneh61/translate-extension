@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Untertitel deaktiviert"
+    },
+    "display_enabled": {
+        "message": "Untertitel aktiviert"
+    },
+    "display_failed": {
+        "message": "Laden der Untertitel fehlgeschlagen. Bitte versuchen Sie, die Seite zu aktualisieren."
+    },
+    "display_no_api": {
+        "message": "Kein API-Schlüssel gefunden. Bitte geben Sie einen API-Schlüssel in den Erweiterungseinstellungen ein."
+    },
+    "display_starting": {
+        "message": "Übersetzungsvorgang wird gestartet..."
+    },
+    "display_translating": {
+        "message": "Untertitel werden übersetzt"
+    },
+    "extension_description": {
+        "message": "Übersetzt YouTube-Untertitel mit der Gemini API"
+    },
+    "extension_name": {
+        "message": "Untertitelübersetzer"
+    },
+    "options_apikey_hint": {
+        "message": "Sie können einen Gemini-API-Schlüssel auf der folgenden Seite erhalten."
+    },
+    "options_button_save": {
+        "message": "Speichern"
+    },
+    "options_button_saved": {
+        "message": "Gespeichert"
+    },
+    "options_language": {
+        "message": "Standardzielsprache:"
+    },
+    "options_title": {
+        "message": "Optionen für den Untertitelübersetzer"
+    },
+    "popup_button_hint": {
+        "message": "Klicken Sie auf die neue Untertitel-Schaltfläche oben rechts bei YouTube-Videos, um Untertitel zu übersetzen."
+    },
+    "popup_button_options": {
+        "message": "Optionen"
+    }
+}

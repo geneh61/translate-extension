@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Legendas desabilitadas"
+    },
+    "display_enabled": {
+        "message": "Legendas habilitadas"
+    },
+    "display_failed": {
+        "message": "Falha ao carregar as legendas. Tente atualizar a página."
+    },
+    "display_no_api": {
+        "message": "Nenhuma chave de API encontrada. Insira uma chave de API nas configurações da extensão."
+    },
+    "display_starting": {
+        "message": "Iniciando o processo de tradução..."
+    },
+    "display_translating": {
+        "message": "Traduzindo legendas"
+    },
+    "extension_description": {
+        "message": "Traduza as legendas do YouTube usando a API Gemini"
+    },
+    "extension_name": {
+        "message": "Tradutor de Legendas"
+    },
+    "options_apikey_hint": {
+        "message": "Você pode obter uma chave de API Gemini na página a seguir."
+    },
+    "options_button_save": {
+        "message": "Salvar"
+    },
+    "options_button_saved": {
+        "message": "Salvo"
+    },
+    "options_language": {
+        "message": "Idioma-alvo padrão:"
+    },
+    "options_title": {
+        "message": "Opções do Tradutor de Legendas"
+    },
+    "popup_button_hint": {
+        "message": "Clique no novo botão de legendas no canto superior direito dos vídeos do YouTube para traduzir as legendas."
+    },
+    "popup_button_options": {
+        "message": "Opções"
+    }
+}

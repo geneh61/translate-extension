@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "字幕已禁用"
+    },
+    "display_enabled": {
+        "message": "字幕已启用"
+    },
+    "display_failed": {
+        "message": "加载字幕失败。请尝试刷新页面。"
+    },
+    "display_no_api": {
+        "message": "未找到API密钥。请在扩展设置中输入API密钥。"
+    },
+    "display_starting": {
+        "message": "开始翻译过程..."
+    },
+    "display_translating": {
+        "message": "正在翻译字幕"
+    },
+    "extension_description": {
+        "message": "使用Gemini API翻译YouTube字幕"
+    },
+    "extension_name": {
+        "message": "字幕翻译器"
+    },
+    "options_apikey_hint": {
+        "message": "您可以在以下页面获得Gemini API密钥。"
+    },
+    "options_button_save": {
+        "message": "保存"
+    },
+    "options_button_saved": {
+        "message": "已保存"
+    },
+    "options_language": {
+        "message": "默认目标语言："
+    },
+    "options_title": {
+        "message": "字幕翻译器选项"
+    },
+    "popup_button_hint": {
+        "message": "点击YouTube视频右上角的新字幕按钮翻译字幕。"
+    },
+    "popup_button_options": {
+        "message": "选项"
+    }
+}

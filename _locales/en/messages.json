@@ -1,0 +1,47 @@
+{
+    "display_disabled": {
+        "message": "Captions disabled"
+    },
+    "display_enabled": {
+        "message": "Captions enabled"
+    },
+    "display_failed": {
+        "message": "Failed to load captions. Please try refreshing the page."
+    },
+    "display_no_api": {
+        "message": "No API key found. Please enter an API key in the extension settings."
+    },
+    "display_starting": {
+        "message": "Starting translation process..."
+    },
+    "display_translating": {
+        "message": "Translating Captions"
+    },
+    "extension_description": {
+        "message": "Translates YouTube captions using Gemini API"
+    },
+    "extension_name": {
+        "message": "YouTube Caption Translator"
+    },
+    "options_apikey_hint": {
+        "message": "You can obtain a Gemini API Key at the following page."
+    },
+    "options_button_save": {
+        "message": "Save"
+    },
+    "options_button_saved": {
+        "message": "Saved"
+    },
+    "options_language": {
+        "message": "Default Target Langauge:"
+    },
+    "options_title": {
+        "message": "YouTube Caption Translator Options"
+    },
+    "popup_button_hint": {
+        "message": "Click the new captions button in the top right of YouTube videos to translate captions."
+    },
+    "popup_button_options": {
+        "message": "Options"
+    }
+}
